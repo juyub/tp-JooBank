@@ -1,0 +1,4 @@
+/build/
+/target/
+.settings/
+src/main/resources/config.properties

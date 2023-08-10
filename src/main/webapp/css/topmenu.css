@@ -1,0 +1,154 @@
+@charset "UTF-8";
+.l-image {
+   width: 80px;
+}
+
+#li-image {
+	width: 60px;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  list-style: none;
+  position: relative;
+}
+
+#menu4 {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+}
+
+#submenu4 {
+  position: absolute;
+  right: -40px;
+  display: none;
+  background: rgba(135, 207, 235, 0.85);
+  border: 1px solid #ccc;
+  margin-top: 0px;
+  width: 120px;
+  padding:5px;
+}
+
+#submenu4 li {
+  width: 100%;
+  padding-top: 5px;    
+  padding-bottom: 5px;
+}
+
+#submenu4 li a {
+  display: block;
+  padding: 5px 10px;
+  text-decoration: none;
+  color: black;
+   text-align: center;
+}
+
+#submenu4 li a:hover {
+  background: orange;
+	transition: ease 1s;
+}
+.cell1 {
+  width: 10%;
+}
+.cell2 {
+  width: 30%;
+  font-size:25px;
+  margin-right: 10px; 
+	margin-left: 10px; 
+}
+.cell4 {
+  width: 15%;
+}
+
+.link-spacing {
+	font-size:25px;
+	margin-right: 10px; 
+	margin-left: 10px; 
+}
+.link-spacing2 {
+	font-size:22px;
+	margin-right: 10px; 
+	margin-left: 10px; 
+}
+/* 
+.l-image {
+   width: 80px;
+}
+
+#li-image {
+	width: 60px;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  list-style: none;
+  position: relative;
+}
+
+#menu4 {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+}
+
+#submenu4 {
+  position: absolute;
+  right: -40px;
+  display: none;
+  background: rgba(135, 207, 235, 0.85);
+  border: 1px solid #ccc;
+  margin-top: 0px;
+  width: 120px;
+  padding:5px;
+}
+
+#submenu4 li {
+  width: 100%;
+  padding-top: 5px;    
+  padding-bottom: 5px;
+}
+
+#submenu4 li a {
+  display: block;
+  padding: 5px 10px;
+  text-decoration: none;
+  color: black;
+   text-align: center;
+}
+
+#submenu4 li a:hover {
+  background: orange;
+	transition: ease 1s;
+}
+.cell1 {
+  width: 10%;
+}
+.cell2 {
+  width: 30%;
+  font-size:25px;
+  margin-right: 10px; 
+	margin-left: 10px; 
+}
+.cell4 {
+  width: 15%;
+}
+
+.link-spacing {
+	font-size:25px;
+	margin-right: 10px; 
+	margin-left: 10px; 
+}
+.link-spacing2 {
+	font-size:22px;
+	margin-right: 10px; 
+	margin-left: 10px; 
+} */
