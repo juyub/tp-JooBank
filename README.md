@@ -1,4 +1,4 @@
-# OpenBank 은행 관리
+# OpenBank 은행 시스템
 
 <img src="https://github.com/juyub/tp-JooBank/assets/126839881/ca8ab77c-f89b-413f-a40f-d708887e7b35" /> 
 
