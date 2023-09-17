@@ -14,5 +14,6 @@
 <img src="https://github.com/juyub/tp-JooBank/assets/126839881/c82b8c56-4b9f-43e1-97c5-bf5cd14a9b8d" width="300" /> 
 <img src="https://github.com/juyub/tp-JooBank/assets/126839881/8815843a-252f-43d3-95b7-daa18bf8d946" width="300" /> 
 
-- 쉬어가기 페이지(게임 연동)
+- 쉬어가기 페이지(게임 연동)<br>
+  <a href="https://github.com/juyub/web-basic">마리오 게임</a> <br>
 <img src="https://github.com/juyub/tp-JooBank/assets/126839881/17409170-389a-4f50-8776-3ee1a120e1d8" width="300" /> 
