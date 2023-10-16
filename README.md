@@ -1,6 +1,5 @@
 # OpenBank 은행 시스템
 
-<!-- <img src="https://github.com/juyub/tp-JooBank/assets/126839881/ca8ab77c-f89b-413f-a40f-d708887e7b35" /> --!>
 <img src="https://github.com/juyub/tp-JooBank/assets/126839881/38f447fb-2121-476c-a5b2-83daa2aa2c8e" />
 <br><br>
 
@@ -13,3 +12,6 @@
 - 쉬어가기 페이지(게임 연동)<br>
   <a href="https://github.com/juyub/web-basic">마리오 게임</a> <br>
 <img src="https://github.com/juyub/tp-JooBank/assets/126839881/17409170-389a-4f50-8776-3ee1a120e1d8" width="300" /> 
+
+
+<!-- <img src="https://github.com/juyub/tp-JooBank/assets/126839881/ca8ab77c-f89b-413f-a40f-d708887e7b35" /> --!>
