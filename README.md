@@ -1,6 +1,7 @@
 # OpenBank 은행 시스템
 
-<img src="https://github.com/juyub/tp-JooBank/assets/126839881/ca8ab77c-f89b-413f-a40f-d708887e7b35" /> 
+<!-- <img src="https://github.com/juyub/tp-JooBank/assets/126839881/ca8ab77c-f89b-413f-a40f-d708887e7b35" /> --!>
+<img src="https://github.com/juyub/tp-JooBank/assets/126839881/38f447fb-2121-476c-a5b2-83daa2aa2c8e" />
 <br><br>
 
 - 이미지를 클릭하면 유튜브 시현영상과 연결됩니다<br>
